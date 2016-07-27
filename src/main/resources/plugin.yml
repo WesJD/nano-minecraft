@@ -1,0 +1,7 @@
+name: Nano
+version: ${version}
+main: net.wesjd.nano.Nano
+authors: [WesJD]
+depend: [ProtocolLib]
+commands:
+  nano:
